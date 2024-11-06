@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **Cyber Security**
 
-- 👨‍💻 All of my projects are available at [https://caelum1121.github.io/Caelum/](https://caelum1121.github.io/Caelum/)
+- 👨‍💻 All of my projects are available at [My Website](https://caelum1121.github.io/Caelum/)
 
 - 💬 Ask me about **MERN, HTML, CSS, JS**
 
 - 📫 How to reach me **caelumz1121@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAGS612HZfA/kvf3UkB90iJLrO3lQzf0Iw/edit?utm_content=DAGS612HZfA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAGS612HZfA/kvf3UkB90iJLrO3lQzf0Iw/edit?utm_content=DAGS612HZfA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 📄 Know about my experiences [My Resume](https://www.canva.com/design/DAGS612HZfA/kvf3UkB90iJLrO3lQzf0Iw/edit?utm_content=DAGS612HZfA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 - ⚡ Fun fact **I think I'm a talkative person.**
 
